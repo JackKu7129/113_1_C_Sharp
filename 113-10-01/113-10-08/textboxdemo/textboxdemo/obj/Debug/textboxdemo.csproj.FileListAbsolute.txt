@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\bin\Debug\textboxdemo.exe.config
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\bin\Debug\textboxdemo.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\bin\Debug\textboxdemo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\obj\Debug\textboxdemo.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\obj\Debug\textboxdemo.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\obj\Debug\textboxdemo.Properties.Resources.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\obj\Debug\textboxdemo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\obj\Debug\textboxdemo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\obj\Debug\textboxdemo.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-01\113-10-08\textboxdemo\textboxdemo\obj\Debug\textboxdemo.pdb
