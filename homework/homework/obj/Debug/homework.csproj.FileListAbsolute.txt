@@ -1,0 +1,10 @@
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\bin\Debug\homework.exe.config
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\bin\Debug\homework.exe
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\bin\Debug\homework.pdb
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\obj\Debug\homework.csproj.AssemblyReference.cache
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\obj\Debug\homework.Form1.resources
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\obj\Debug\homework.Properties.Resources.resources
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\obj\Debug\homework.csproj.GenerateResource.cache
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\obj\Debug\homework.exe
+C:\Users\小顧\OneDrive\桌面\113_1_C_Sharp\homework\homework\obj\Debug\homework.pdb
